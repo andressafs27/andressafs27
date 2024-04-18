@@ -8,9 +8,9 @@
   <img align="right" padding="50px" alt="mulher-confusa" src="https://github.com/andressafs27/andressafs27/assets/107321610/b741100a-669a-48e0-b93b-dca06ecd862f" style="width: 180px; height: auto;">
 
   <ul>
-    <li>👋 Student of Analysis and Systems Development.</li>
-    <li>🌱 Currently focused on enhancing skills in web development.</li>
-    <li>📚 Studying English to improve global communication in the field of technology.</li>
+    <li>👋 Systems Analysis and Development student.</li>
+    <li>🌱 Currently focused on improving web development skills.</li>
+    <li>📚 Study English to improve global communication in the technology area.</li>
   </ul>
   
 </div>
