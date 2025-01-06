@@ -13,7 +13,7 @@
   <ul style="list-style-type: none; padding: 0; text-align: left;">
     <li>👋 Systems Analysis and Development student.</li>
     <li>🌱 Currently focused on improving web development skills.</li>
-    <li>📚 Studying English to enhance global communication in the tech industry.</li>
+    <li>📚 Studying English to improve global communication in the tech industry.</li>
   </ul>
 </div>
 
