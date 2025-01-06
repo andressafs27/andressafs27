@@ -1,43 +1,48 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=header"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Farias)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Farias" alt="Typing SVG" />
+  </a>
+</div>
 
-<div style="display:flex , justify-content:center, align="center>
-  <img align="right" padding="50px" alt="mulher-confusa" src="https://github.com/andressafs27/andressafs27/assets/107321610/b741100a-669a-48e0-b93b-dca06ecd862f" style="width: 180px; height: auto;">
-
-  <ul>
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="https://github.com/andressafs27/andressafs27/assets/107321610/b741100a-669a-48e0-b93b-dca06ecd862f" alt="woman confused" style="width: 180px; height: auto; border-radius: 10px; margin-right: 20px;">
+  <ul style="list-style-type: none; padding: 0; text-align: left;">
     <li>👋 Systems Analysis and Development student.</li>
     <li>🌱 Currently focused on improving web development skills.</li>
-    <li>📚 Study English to improve global communication in the technology area.</li>
+    <li>📚 Studying English to enhance global communication in the tech industry.</li>
   </ul>
-  
 </div>
 
-<div style="display: inline_block">
-  <img align="center" alt="Gif" height="30" width="40" src="giphy.gif">
+<div style="text-align: center; margin: 20px 0;">
+  <p>Technologies I work with:</p>
+  <div>
+    <img alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 5px;">
+    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 5px;">
+    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 5px;">
+    <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-right: 5px;">
+    <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin-right: 5px;">
+    <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="margin-right: 5px;">
+    <img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin-right: 5px;">
+    <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin-right: 5px;">
+    <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="margin-right: 5px;">
+    <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  </div>
 </div>
 
-<div style="display: inline_block , align:"right"><br>
-  <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andressa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Andressa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Andressa-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> 
-  <img align="center" alt="Andressa-Sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="Andressa-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />  
-  <img align="center" alt="Andressa-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
-  <img align="center" alt="Andressa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
-
-  
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="mailto:andreessafariass@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/andreessa-fariass/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
-  ##
- 
-<div style="display: flex, justify-content: flex-end"> 
-  <a href = "mailto:andreessafariass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreessa-fariass/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=footer"/>
 </div>
-
