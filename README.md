@@ -1,48 +1,45 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=header"/>
-</div>
+#  Andressa Farias
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Andressa+Farias" alt="Typing SVG" />
-  </a>
-</div>
+**Front-End Developer** | Web & Mobile Interfaces
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-  <img src="https://github.com/andressafs27/andressafs27/assets/107321610/b741100a-669a-48e0-b93b-dca06ecd862f" alt="woman confused" style="width: 180px; height: auto; border-radius: 10px; margin-right: 20px;">
-  <ul style="list-style-type: none; padding: 0; text-align: left;">
-    <li>👋 Systems Analysis and Development student.</li>
-    <li>🌱 Currently focused on improving web development skills.</li>
-    <li>📚 Studying English to improve global communication in the tech industry.</li>
-  </ul>
-</div>
+Sou desenvolvedora front-end com experiência em projetos web e mobile. Busco construir interfaces funcionais, acessíveis e centradas no usuário. Tenho como foco a evolução contínua, aplicando boas práticas de desenvolvimento, explorando novas tecnologias e aprendendo com cada projeto.
 
-<div style="text-align: center; margin: 20px 0;">
-  <p>Technologies I work with:</p>
-  <div>
-    <img alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 5px;">
-    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 5px;">
-    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 5px;">
-    <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin-right: 5px;">
-    <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="margin-right: 5px;">
-    <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="margin-right: 5px;">
-    <img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin-right: 5px;">
-    <img alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="margin-right: 5px;">
-    <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="margin-right: 5px;">
-    <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </div>
-</div>
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="mailto:andreessafariass@gmail.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/andreessa-fariass/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=footer"/>
-</div>
+##  Sobre
+
+- 🎯 Foco em desenvolvimento front-end com frameworks modernos
+- 🧩 Experiência com aplicações reais, integração com APIs e componentização
+- 🌍 Estudando inglês para atuar em ambientes colaborativos internacionais
+
+
+
+##  Tecnologias
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+ 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+##  Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreessa-fariass/)
+[![Gmail](https://img.shields.io/badge/-andreessafariass@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andreessafariass@gmail.com)
+
+
+
